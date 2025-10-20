@@ -6,7 +6,7 @@ body {
 }
 .v3323_4 {
   width: 100%;
-  height: 1024px;
+  min-height: 100vh; /* Menggunakan min-height 100% dari tinggi layar (viewport) */
   background: url("../images/v3323_4.png");
   background-repeat: no-repeat;
   background-position: center center;
